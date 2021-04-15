@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---src-templates-cara-tsx-2eb5a1fea6ffd0facdcd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-fc77d61f0ee421e2e353.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-5e2820269ccb92f65262.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/naira/
+  Link: </naira/webpack-runtime-fc77d61f0ee421e2e353.js>; rel=preload; as=script
+  Link: </naira/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </naira/app-5e2820269ccb92f65262.js>; rel=preload; as=script
+  Link: </naira/component---src-templates-cara-tsx-2eb5a1fea6ffd0facdcd.js>; rel=preload; as=script
+  Link: </naira/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </naira/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/naira/offline-plugin-app-shell-fallback/
+  Link: </naira/webpack-runtime-fc77d61f0ee421e2e353.js>; rel=preload; as=script
+  Link: </naira/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </naira/app-5e2820269ccb92f65262.js>; rel=preload; as=script
+  Link: </naira/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </naira/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </naira/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
